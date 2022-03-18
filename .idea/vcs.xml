@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/https:/github.com/YuraChicalo/inforce-test-app.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/https:/github.com/YuraChicalo/inforce-test.git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/https:/github.com/YuraChicalo/inforceTestApp.git" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/test/simple-json-api" vcs="Git" />
   </component>
 </project>
